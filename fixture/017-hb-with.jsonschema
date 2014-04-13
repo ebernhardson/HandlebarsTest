@@ -42,6 +42,13 @@
               "number"
             ],
             "required": true
+          },
+          "with": {
+            "type": [
+              "string",
+              "number"
+            ],
+            "required": true
           }
         }
       }
